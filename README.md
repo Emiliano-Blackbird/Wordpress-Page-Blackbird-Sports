@@ -2,21 +2,23 @@
 
 This is a sample website for a fictional sports brand, developed in WordPress with a custom design. The project was created locally using LocalWP.
 
-📝 Project Description
+
+## 📝 Project Description
 
 Blackbird Sports is a modern website focused on sports products, featuring:
 
-  A responsive homepage design
+    A responsive homepage design
 
-  Sections: About Us, Services, Blog, and Contact
+    Sections: About Us, Services, Blog, and Contact
 
-  Custom aesthetics through a bespoke theme
+    Custom aesthetics through a bespoke theme
 
-  SEO-optimized structure and solid performance
+    SEO-optimized structure and solid performance
 
-  Visual editing tools like Elementor (Free version)
+    Visual editing tools like Elementor (Free version)
 
-  Functional forms and clear site navigation
+    Functional forms and clear site navigation
+
 
 ## 📸 Site Screenshots
 
@@ -38,6 +40,7 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 
 ![04contacto](https://github.com/user-attachments/assets/dd31e9b7-e172-469f-b24d-100e7bc34a5b)
 
+
 ## 🛒 Includes a fully functional shopping cart and payment system
 
 ![product](https://github.com/user-attachments/assets/91e058b0-6b81-4937-a50a-156f971a3ef2)
@@ -47,14 +50,22 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 ![cart](https://github.com/user-attachments/assets/7306f976-9abf-471b-8163-201b4302152a)
 
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
-- WordPress
-- HTML5 / CSS3
-- PHP
-- LocalWP
-- Elementor (free)
-- SEO básico
+    WordPress
+
+    HTML, CSS
+
+    Custom Theme Development
+
+    Elementor (Free)
+
+    LocalWP
+
+    PHP
+
+    MySQL
+
 
 🚀 How to Try It Out
 
@@ -66,6 +77,14 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 
     (Optional) Import the database to load demo content
 
+
 ## 🔌 Recommended Plugins
 
 ![plugins](https://github.com/user-attachments/assets/ffd83373-bd17-4714-8c9c-5b6d1a065ab4)
+
+
+## 👨‍💻 Author
+
+Emiliano Blackbird (Emiliano Perez Paponi)
+Full Stack Developer
+GitHub: @Emiliano-Blackbird
