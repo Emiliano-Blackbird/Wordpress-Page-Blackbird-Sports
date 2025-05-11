@@ -1,33 +1,53 @@
-Blackbird Sports
+## Blackbird Sports
 
-Sitio web de muestra para una marca deportiva ficticia desarrollado en WordPress con diseño personalizado. Este proyecto fue creado localmente con LocalWP.
+This is a sample website for a fictional sports brand, developed in WordPress with a custom design. The project was created locally using LocalWP.
 
-## 🌐 Descripción del Proyecto
+📝 Project Description
 
-**Blackbird Sports** es una web moderna con enfoque en productos deportivos, donde se destacan:
+Blackbird Sports is a modern website focused on sports products, featuring:
 
-- Página de inicio con diseño responsive
-- Secciones: Nosotros, Servicios, Blog y Contacto
-- Estética personalizada desde un tema propio
-- Estructura optimizada para SEO y buen rendimiento
-- Uso de herramientas visuales como Elementor (sin Pro)
-- Implementación de formularios y navegación clara
+  A responsive homepage design
 
-## 📸 Capturas del sitio
+  Sections: About Us, Services, Blog, and Contact
+
+  Custom aesthetics through a bespoke theme
+
+  SEO-optimized structure and solid performance
+
+  Visual editing tools like Elementor (Free version)
+
+  Functional forms and clear site navigation
+
+## 📸 Site Screenshots
 
 ![00home](https://github.com/user-attachments/assets/56100cbb-081d-4613-a998-c8d38b4c4d3b)
 
+##
+
 ![01nosotros](https://github.com/user-attachments/assets/d757d053-caa5-4173-9ca6-16daf0a3498f)
+
+##
 
 ![02servicios](https://github.com/user-attachments/assets/5135c65d-24c4-417c-8b31-a63584b974b7)
 
+##
+
 ![03noticias](https://github.com/user-attachments/assets/63a2da78-d3b0-40d1-b997-6aa4d1e493ee)
+
+##
 
 ![04contacto](https://github.com/user-attachments/assets/dd31e9b7-e172-469f-b24d-100e7bc34a5b)
 
-## También cuenta con un carrito de compras y formas de pago 100% funcional
+## 🛒 Includes a fully functional shopping cart and payment system
 
-## 🛠️ Tecnologías utilizadas
+![product](https://github.com/user-attachments/assets/91e058b0-6b81-4937-a50a-156f971a3ef2)
+
+##
+
+![cart](https://github.com/user-attachments/assets/7306f976-9abf-471b-8163-201b4302152a)
+
+
+## 🛠️ Technologies Used
 
 - WordPress
 - HTML5 / CSS3
@@ -36,11 +56,16 @@ Sitio web de muestra para una marca deportiva ficticia desarrollado en WordPress
 - Elementor (free)
 - SEO básico
 
-## 🚀 Cómo probarlo
+🚀 How to Try It Out
 
-1. Clona el repositorio
-2. Copia los archivos en la carpeta `wp-content` de una instalación de WordPress
-3. Activa el tema desde el panel de WordPress
-4. Importa la base de datos (opcional si deseas los datos de prueba)
+    Clone this repository
+
+    Copy the files into the wp-content folder of your WordPress installation
+
+    Activate the theme from the WordPress dashboard
+
+    (Optional) Import the database to load demo content
+
+## 🔌 Recommended Plugins
 
 ![plugins](https://github.com/user-attachments/assets/ffd83373-bd17-4714-8c9c-5b6d1a065ab4)
