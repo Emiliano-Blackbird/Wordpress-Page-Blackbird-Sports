@@ -50,7 +50,7 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 ![cart](https://github.com/user-attachments/assets/7306f976-9abf-471b-8163-201b4302152a)
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
     WordPress
 
@@ -67,7 +67,7 @@ Blackbird Sports is a modern website focused on sports products, featuring:
     MySQL
 
 
-🚀 How to Try It Out
+## 🚀 How to Try It Out
 
     Clone this repository
 
@@ -85,6 +85,6 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 
 ## 👨‍💻 Author
 
-Emiliano Blackbird (Emiliano Perez Paponi)
-Full Stack Developer
-GitHub: @Emiliano-Blackbird
+ - Emiliano Blackbird (Emiliano Perez Paponi)
+ - Full Stack Developer
+ - GitHub: @Emiliano-Blackbird
