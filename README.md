@@ -7,17 +7,17 @@ This is a sample website for a fictional sports brand, developed in WordPress wi
 
 Blackbird Sports is a modern website focused on sports products, featuring:
 
-    A responsive homepage design
+    A responsive homepage design.
 
-    Sections: About Us, Services, Blog, and Contact
+    Sections: About Us, Services, Blog, and Contact.
 
-    Custom aesthetics through a bespoke theme
+    Custom aesthetics through a bespoke theme.
 
-    SEO-optimized structure and solid performance
+    SEO-optimized structure and solid performance.
 
-    Visual editing tools like Elementor (Free version)
+    Visual editing tools like Elementor (Free version).
 
-    Functional forms and clear site navigation
+    Functional forms powered by WPForms and intuitive navigation.
 
 
 ## 📸 Site Screenshots
@@ -69,13 +69,13 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 
 ## 🚀 How to Try It Out
 
-    Clone this repository
+    Clone this repository.
 
-    Copy the files into the wp-content folder of your WordPress installation
+    Copy the files into the wp-content folder of your WordPress installation.
 
-    Activate the theme from the WordPress dashboard
+    Activate the theme from the WordPress dashboard.
 
-    (Optional) Import the database to load demo content
+    (Optional) Import the database to load demo content.
 
 
 ## 🔌 Recommended Plugins
@@ -85,6 +85,7 @@ Blackbird Sports is a modern website focused on sports products, featuring:
 
 ## 👨‍💻 Author
 
- - Emiliano Blackbird (Emiliano Perez Paponi)
- - Full Stack Developer
- - GitHub: @Emiliano-Blackbird
+    Emiliano Perez Paponi
+    Full Stack Developer
+    GitHub: @Emiliano-Blackbird
+    Mail: EmilianoPerezPaponi@gmail.com
